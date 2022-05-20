@@ -1,3 +1,5 @@
+#Exercício Python 028:
+
 # Escreva um programa que faça o computador "pensar" em um numero inteiro entre 0a5
 # e peça para o usuário tentar descobri qual foi o numero escolhido pelo computador
 # o programa devera escrever na tela se o usuario ganhou ou perdeu
